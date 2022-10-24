@@ -24,9 +24,6 @@ export default function Home() {
           todosArray[i].text = editedText;
         }
       }
-
-    // todosArray.splice(id, 1, {text: editedText, id: id});
-    // setTodos(todosArray);
   }
 
   return (
